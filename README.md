@@ -6,7 +6,7 @@
 
 把整个 wifi 目录都放到服务器，本机用脚本编码一下 URL，然后用 qrencode 生成二维码后用微信扫描访问
 
-![截图] (https://raw.githubusercontent.com/CaledoniaProject/Wifi-Master-Key-Protocol-Decrypted/master/contrib/example.png "Desktop screenshot")
+![截图](https://raw.githubusercontent.com/CaledoniaProject/Wifi-Master-Key-Protocol-Decrypted/master/contrib/example.png "Desktop screenshot")
 
 暂时不知道 iOS 怎么获取 AP 列表 :-(
 
